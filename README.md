@@ -7,7 +7,7 @@
 # hoge
 
 * sample
-* [test](http://www.tis.co.jp)
+* [test](http://www.yahoo.co.jp/)
 
 
 
